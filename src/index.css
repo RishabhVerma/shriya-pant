@@ -221,8 +221,9 @@ footer{background:#0a0a0a;padding:4.5rem 3rem 3rem}
   nav ul{justify-self:start;gap:1.4rem;margin-top:.6rem}
   #welcome{padding-top:7.5rem}
   .hero{grid-template-columns:1fr;min-height:0}
-  .leftinner{padding:0 1.25rem;max-width:none}
-  .fields{height:auto;flex-wrap:wrap;margin:1.75rem 0 2.5rem;padding:0 1.25rem}
+  .leftinner{padding:0 1.25rem;max-width:none;gap:1.25rem}
+  .lede{margin-top:1rem}
+  .fields{height:auto;flex-wrap:wrap;margin:1rem 0 2.75rem;padding:0 1.25rem}
   .stage{height:58vw;min-height:240px}
   .capband{height:auto;padding:1.1rem 1.25rem 2rem}
   #clients,footer{padding-left:1.25rem;padding-right:1.25rem}
